@@ -9,7 +9,7 @@
             //MainPage = new AppShell();
             //MainPage = new MainPage();
             //MainPage = new ContentPageDemo();
-            MainPage = new NavigationPage(new MainPage());
+            MainPage =new TabbedPageDemo();
         }
     }
 }
